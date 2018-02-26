@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.license      = "Copyleft"
   s.author       = { "Junda" => "junda@just2us.com" }
   s.source       = { :path => '.' }
-  # s.source       = { :git => "https://github/samwize/MyFramework", :tag => "#{s.version}" }
+  s.source       = { :git => "git@github.com:mhdabdulhameed/MyFramework.git" }
   s.source_files  = "**/*.swift"
 end
